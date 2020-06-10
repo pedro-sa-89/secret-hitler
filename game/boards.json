@@ -1,0 +1,22 @@
+{
+    "5": {
+        "fascist": [ "nothing", "nothing", "peek-laws", "bullet", "bullet", "win" ],
+        "liberal": [ "nothing", "nothing", "nothing", "nothing", "win" ]
+    },
+    "6": {
+        "fascist": [ "nothing", "nothing", "peek-laws", "bullet", "bullet", "win" ],
+        "liberal": [ "nothing", "nothing", "nothing", "nothing", "win" ]
+    },
+    "7": {
+        "fascist": [ "nothing", "nothing", "investigation", "bullet", "bullet", "win" ],
+        "liberal": [ "nothing", "nothing", "nothing", "nothing", "win" ]
+    },
+    "8": {
+        "fascist": [ "nothing", "nothing", "investigation", "bullet", "bullet", "win" ],
+        "liberal": [ "nothing", "nothing", "nothing", "nothing", "win" ]
+    },
+    "9": {
+        "fascist": [ "nothing", "nothing", "investigation", "bullet", "bullet", "win" ],
+        "liberal": [ "nothing", "nothing", "nothing", "nothing", "win" ]
+    }
+}
