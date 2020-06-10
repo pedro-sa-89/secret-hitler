@@ -1,6 +1,8 @@
 const db = require('../repository/database')
 const _ = require('lodash');
 
+const game = require('../game/game')
+
 async function welcome() {
     return 'Welcome to Secret Hitler'
 }
@@ -47,6 +49,8 @@ async function leaveGroup(playerId, groupId) {
 
 async function startGame(groupId) {
     const group = db.get('groups', groupId)
+
+    game.start(group);
 }
 
 async function dumpDatabase() {
